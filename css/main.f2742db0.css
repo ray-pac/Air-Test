@@ -73,15 +73,15 @@ li {
     top: 0
 }
 
-.MuiList-root,.css-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+.MuiList-root,.-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
     background-color: #07061c
 }
 
-.css-1toxriw-MuiList-root-MuiMenu-list>a>li {
+.-1toxriw-MuiList-root-MuiMenu-list>a>li {
     color: #fff
 }
 
-.css-1toxriw-MuiList-root-MuiMenu-list>a>li:hover {
+.-1toxriw-MuiList-root-MuiMenu-list>a>li:hover {
     background-color: #1a193d;
     color: #fff
 }
@@ -598,7 +598,7 @@ a,a:link,a:visited {
 }
 
 .drumming {
-    background-image: url(css/css/media/AD.a104d908a4049a7f50a8.png);
+    background-image: url(css/media/AD.a104d908a4049a7f50a8.png);
     width: 380px
 }
 
@@ -611,7 +611,7 @@ a,a:link,a:visited {
 }
 
 .citing {
-    background-image: url(css/css/media/Airciting_features.2e14ff01784e6650c5cd.png);
+    background-image: url(css/media/Airciting_features.2e14ff01784e6650c5cd.png);
     margin-left: 15px;
     width: 746px
 }

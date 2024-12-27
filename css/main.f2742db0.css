@@ -10,7 +10,7 @@ code {
  
 .main-header {
     align-items: center;
-    background-image: url(media/Header.1615791390c8d3012528.png);
+    background-image: url(media/Header.1615791390c8d3012528.png); 
     background-size: 100% 100%;
     color: #fff;
     display: flex;
@@ -73,15 +73,15 @@ li {
     top: 0
 }
 
-.MuiList-root,.css-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+.MuiList-root,.-1tktgsa-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
     background-color: #07061c
 }
 
-.css-1toxriw-MuiList-root-MuiMenu-list>a>li {
+.-1toxriw-MuiList-root-MuiMenu-list>a>li {
     color: #fff
 }
 
-.css-1toxriw-MuiList-root-MuiMenu-list>a>li:hover {
+.-1toxriw-MuiList-root-MuiMenu-list>a>li:hover {
     background-color: #1a193d;
     color: #fff
 }
@@ -690,7 +690,7 @@ a,a:link,a:visited {
 }
 
 /*!
- * animate.css -https://daneden.github.io/animate.css/
+ * animate.css -https://daneden.github.io/animate.
  * Version - 3.7.2
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
